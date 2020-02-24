@@ -1,5 +1,7 @@
 import React from 'react';
 
+import { Title } from './styles'
+
 export default function Repository() {
-  return <h1>Repository</h1>
+  return <Title>Repository</Title>
 }
